@@ -1,0 +1,6 @@
+[submodule "python/SeleniumBrowser_proxy"]
+	path = python/SeleniumBrowser_proxy
+	url = https://github.com/elisa-aleman/SeleniumBrowser_proxy
+[submodule "python/useful_methods"]
+	path = python/useful_methods
+	url = https://github.com/elisa-aleman/useful_methods
